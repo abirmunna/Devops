@@ -696,7 +696,7 @@ form label {
   }
 }
 .col-nineth .col-third {
-  width: 33.333%;
+  width: 50%;
   float: left;
 }
 @media screen and (max-width: 768px) {
