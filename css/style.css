@@ -388,7 +388,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .about-content .desc {
   background: #fff;
-  padding: 20px;
+  padding: 15px;
+  margin-left: 100px;
 }
 
 .fh5co-staff {
